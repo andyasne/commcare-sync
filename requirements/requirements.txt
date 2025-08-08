@@ -95,7 +95,7 @@ pyopenssl==20.0.1
     # via
     #   -r requirements.in
     #   ndg-httpsclient
-python-dateutil==2.8.1
+python-dateutil>=2.8.2,<3
     # via
     #   alembic
     #   commcare-export

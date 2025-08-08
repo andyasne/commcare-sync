@@ -17,7 +17,7 @@ backoff==1.10.0
 billiard==4.2.1
     # via celery
 celery[redis]==5.5.3
-    # via -r requirements.in
+    # via -r requirements.in 
 celery-progress==0.0.9
     # via -r requirements.in
 certifi==2019.11.28
